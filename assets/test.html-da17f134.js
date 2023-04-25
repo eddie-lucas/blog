@@ -1,0 +1,1 @@
+import{_ as t,X as a,Y as s,Z as e,$ as c}from"./framework-ca66ca40.js";const r={},o=e("h1",{id:"测试",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#测试","aria-hidden":"true"},"#"),c(" 测试")],-1),n=[o];function _(d,i){return a(),s("div",null,n)}const l=t(r,[["render",_],["__file","test.html.vue"]]);export{l as default};
